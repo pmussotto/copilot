@@ -2,7 +2,7 @@
 
 Questo documento definisce la struttura, la semantica e le regole interpretative dei file `.mask` utilizzati per la descrizione di scenari, test automatici e logiche di processo nei progetti gestiti dal team.
 
-## 1. Struttura generale
+## 1. Struttura generale 
 
 Un file `.mask` è un file JSON (o JSON-like) composto da una lista di blocchi/scenari principali, ciascuno contenente tipicamente:
 
